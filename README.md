@@ -516,7 +516,7 @@ Gets messy quick. **I use a pencil and eraser.**
 ![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
 
 **Coding question practice is not about memorizing answers to programming problems.**
-
+- [x] Does all the material is already obtained and carefully readed the recommendations?
 ## Coding Problems
 
 Don't forget your key coding interview books [here](#interview-prep-books).
